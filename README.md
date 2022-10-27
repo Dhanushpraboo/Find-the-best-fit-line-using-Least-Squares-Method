@@ -97,7 +97,7 @@ print("For population of 70,000, we pewdict a profit of $ "+str(round(predict2,0
 ![best fit line](ml1.png)
 ![best fit line](ml2.png)
 ![best fit line](ml3.png)
-![best fit line](ml4.png)
+![best fit line](ml5.png)
 
 
 ## Result:
