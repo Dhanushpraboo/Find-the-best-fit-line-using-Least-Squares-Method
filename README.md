@@ -67,8 +67,8 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](ml1.png)
-![best fit line](ml2.png)
+![image](https://user-images.githubusercontent.com/94426323/198180427-004a88ba-5cda-4a51-b3ba-82d63143ffde.png)
+![image](https://user-images.githubusercontent.com/94426323/198180478-fb8351e1-0119-4f7f-8b6c-70c5594a6bca.png)
 ![best fit line](ml5.png)
 
 
